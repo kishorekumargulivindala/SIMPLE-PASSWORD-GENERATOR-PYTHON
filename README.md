@@ -27,7 +27,7 @@ python password_generator.py
 
 🧪 Example
 
-=== 🔐 PASSWORD GENERATOR ===
+===  PASSWORD GENERATOR ===
 Enter length: 6
 
 Letters? (y/n): y
@@ -52,4 +52,4 @@ Future Improvements:
 
 ---
 
-👨‍💻 Developed as a beginner Python project
+...Developed as a beginner Python project...
