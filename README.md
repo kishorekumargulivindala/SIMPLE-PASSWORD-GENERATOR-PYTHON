@@ -25,7 +25,7 @@ It allows users to create secure passwords based on their preferences.
 
 python password_generator.py
 
-🧪 Example
+Example:
 
 ===  PASSWORD GENERATOR ===
 Enter length: 6
